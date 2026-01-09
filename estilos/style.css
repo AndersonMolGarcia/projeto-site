@@ -19,3 +19,8 @@ main {
 img.lado {
     float: right;
 }
+
+a {
+    text-decoration: none;
+    color: purple;
+}
